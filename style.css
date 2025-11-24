@@ -1,0 +1,325 @@
+/*
+=====================================================
+    VARIÁVEIS DE CORES (CUSTOMIZAÇÃO DA MARCA)
+=====================================================
+*/
+:root {
+    --cor-fundo-claro: #f6f6f6;
+    --cor-texto-principal: #1e1e1e; /* Preto escuro (legibilidade) */
+    --cor-primaria-azul: #211d70; /* Azul escuro (ação, confiança) */
+    --cor-secundaria-rosa: #a62990; /* Rosa/Magenta (detalhe, destaque) */
+    --cor-suave-clara: #e0e0e0;
+
+    /* NOVO: Cores para as Tags de Detalhes */
+    --cor-tag-fundo: #e3f2fd; /* Azul muito claro (Light Blue A100) */
+    --cor-tag-borda: #90caf9; /* Azul claro (Light Blue A200) */
+    --cor-tag-texto: #1565c0; /* Azul escuro para contraste */
+
+    --sombra-card: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/*
+=====================================================
+    ESTILOS GERAIS E LAYOUT
+=====================================================
+*/
+body {
+    font-family: 'Open Sans', 'Roboto', sans-serif;
+    background-color: var(--cor-fundo-claro);
+    color: var(--cor-texto-principal);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Removido o estilo genérico 'header' para evitar conflitos de fundo/padding */
+/* Removido o estilo de 'h1', pois ele foi retirado do HTML */
+
+
+main {
+    padding: 20px;
+}
+
+/*
+=====================================================
+    HEADER E LOGO (NOVO ALINHAMENTO)
+=====================================================
+*/
+
+/* CONTAINER PRINCIPAL DO CABEÇALHO */
+.main-header {
+    background-color: white; /* Fundo branco, conforme solicitado */
+    padding: 15px 0; /* Adiciona padding vertical */
+    border-bottom: 2px solid var(--cor-suave-clara); /* Linha divisória suave */
+}
+
+/* CONTEÚDO INTERNO (Onde a mágica do Flexbox acontece) */
+.header-content {
+    /* CENTRALIZA O BLOCO DE CONTEÚDO */
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 20px; 
+    
+    display: flex;
+    /* Alinha o grupo de elementos para a direita */
+    justify-content: center; 
+    align-items: center;
+
+    /* *OPCIONAL:* Use 'gap' para criar espaço entre Logo e CTA */
+    gap: 20px; 
+}
+
+/* Estiliza a Chamada de Ação (Fica na esquerda) */
+.header-cta {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: var(--cor-primaria-azul); /* Azul escuro para o texto */
+}
+
+
+/* Estiliza o contêiner (link) da logo */
+.logo-link {
+    text-decoration: none;
+    display: flex; /* Permite que a imagem e o texto fiquem lado a lado */
+    align-items: center; 
+}
+
+/* Estiliza a imagem da logo */
+.logo-img {
+    height: 100px; 
+    width: auto;
+    margin-right: 15px; /* Adicionando espaçamento à direita da logo */
+}
+
+/*
+=====================================================
+    FILTROS E CONTROLES DE BUSCA
+=====================================================
+*/
+.controles-busca {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 15px;
+    padding: 15px 20px;
+    background-color: #ffffff;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: var(--sombra-card);
+    /* Margem superior para separar o filtro do header, já que o filtro foi movido no HTML */
+    margin-top: 20px; 
+}
+
+.controles-busca input[type="text"] {
+    flex-grow: 1; 
+    min-width: 250px;
+}
+
+.controles-busca input[type="text"],
+.controles-busca select {
+    padding: 10px;
+    border: 1px solid var(--cor-suave-clara);
+    border-radius: 4px;
+    font-size: 1rem;
+    color: var(--cor-texto-principal);
+    background-color: #fcfcfc;
+    transition: border-color 0.3s;
+}
+
+.controles-busca input[type="text"]:focus,
+.controles-busca select:focus {
+    border-color: var(--cor-primaria-azul);
+    outline: none;
+}
+
+.filtro-grupo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.filtro-grupo label {
+    font-weight: 600;
+    color: var(--cor-texto-principal);
+    white-space: nowrap;
+}
+
+/*
+=====================================================
+    CONTAINER DE CARDS
+=====================================================
+*/
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); 
+    gap: 30px;
+    padding: 30px 0;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/*
+=====================================================
+    ESTILO DO CARD INDIVIDUAL
+=====================================================
+*/
+.card-concurso {
+    background-color: #ffffff;
+    border: 1px solid var(--cor-suave-clara);
+    border-radius: 10px;
+    box-shadow: var(--sombra-card);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card-concurso:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* CABEÇALHO (CARGO) */
+.card-header {
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+.card-header h3 {
+    color: var(--cor-texto-principal);
+    font-size: 1.8rem; /* Aumenta o destaque */
+    font-weight: 800;
+    margin: 0;
+}
+
+/* NOVO: CAIXINHA DO ÓRGÃO (SUB-DETALHE) */
+.card-orgao-info {
+    margin-bottom: 15px;
+    border-bottom: 1px dashed var(--cor-suave-clara); /* Linha divisória sutil */
+    padding-bottom: 10px;
+}
+
+.orgao-tag {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--cor-secundaria-rosa); /* Usa a cor de destaque da marca */
+    padding: 4px 8px;
+    border: 1px solid var(--cor-secundaria-rosa);
+    border-radius: 4px;
+    margin: 0;
+}
+
+
+/* MÉTRICAS (SALÁRIO, VAGAS, LOCAL) */
+.card-metrica {
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--cor-suave-clara);
+    margin-bottom: 15px;
+}
+
+.card-metrica p {
+    margin: 5px 0;
+    font-size: 1rem;
+}
+
+.card-metrica span {
+    font-weight: 700;
+    color: var(--cor-primaria-azul); 
+}
+
+/* NOVO: TAGS DE ESCOLARIDADE E ETAPAS */
+.card-tags-detalhes {
+    display: flex;
+    flex-wrap: wrap; /* Para quebrar a linha se a tela for pequena */
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.tag-escolaridade,
+.tag-etapas {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 6px 10px;
+    border-radius: 6px;
+    
+    /* Aplicação do tom de Azul Claro */
+    background-color: var(--cor-tag-fundo);
+    border: 1px solid var(--cor-tag-borda);
+    color: var(--cor-tag-texto);
+}
+
+.card-inscricao-detalhe {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed var(--cor-suave-clara);
+}
+
+.card-inscricao-detalhe p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+.card-inscricao-detalhe span {
+    font-weight: 700;
+    color: var(--cor-texto-principal);
+}
+
+/* BOTÃO DE EDITAL (CTA) */
+.botao-edital {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: var(--cor-primaria-azul); 
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 6px;
+    margin-top: auto; 
+    transition: background-color 0.3s, transform 0.3s;
+    box-sizing: border-box;
+}
+
+.botao-edital:hover {
+    background-color: #1a175f; 
+    transform: scale(1.02);
+}
+
+/*
+=====================================================
+    RODAPÉ
+=====================================================
+*/
+.footer {
+    background-color: var(--cor-primaria-azul);
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 30px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.footer-links a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: var(--cor-secundaria-rosa);
+}

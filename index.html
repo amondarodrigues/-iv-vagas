@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certames Finder | Instituto Verbena/UFG (Piloto)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <body>
+    
+   <header class="main-header">
+    <div class="header-content">
+        <a href="index.html" class="logo-link">
+            <img src="assets/logo-iv-vagas.png" alt="IV Vagas Dashboard" class="logo-img">
+        </a>
+    
+    </div>
+</header>
+    
+    <div class="controles-busca">
+        <input type="text" 
+               id="buscaTexto" 
+               placeholder="Buscar por cargo (ex: Técnico em Enfermagem, Analista)"
+               onkeyup="aplicarFiltros()">
+
+      <div class="filtro-grupo">
+    <label for="filtroEscolaridade">Nível:</label>
+    <select id="filtro-escolaridade" onchange="aplicarFiltros()">
+        <option value="todos">Todas as Escolaridades</option>
+    </select>
+</div>
+
+        <div class="filtro-grupo">
+            <label for="filtroCidade">Cidade:</label>
+            <select id="filtroCidade" onchange="aplicarFiltros()">
+            <option value="">Todas as Cidades</option>
+            </select>
+        </div>
+    </div>
+    
+    <main>
+        <section class="card-container" id="containerResultados">
+        </section>
+    </main>
+
+    </body>
+
+    <footer class="footer">
+        <ul class="footer-links">
+
+            <li>
+                <a href="https://wwww.institutoverbena.ufg.br">Instituto Verbena/UFG</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

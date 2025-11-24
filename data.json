@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "E2-S1",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Agente Educacional",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 852,
+    "salario_min": 1796.93,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S2",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente Administrativo",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 17,
+    "salario_min": 1935.16,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S3",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Controle Interno",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 10,
+    "salario_min": 2900.58,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S4",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Procuradoria",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 2900.58,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S5",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Saúde – Técnico de Enfermagem",
+    "escolaridade": "Médio (Técnico)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 80,
+    "salario_min": 2249.32,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S6",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Saúde – Técnico em Imobilização Ortopédica",
+    "escolaridade": "Médio (Técnico)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 2249.32,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S7",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Saúde – Técnico em Laboratório",
+    "escolaridade": "Médio (Técnico)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 2249.32,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S8",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Saúde – Técnico em Prótese Dentária",
+    "escolaridade": "Médio (Técnico)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 2249.32,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S9",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente de Saúde – Técnico em Radiologia",
+    "escolaridade": "Médio (Técnico)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 2249.32,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S10",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Assistente Educacional",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 8,
+    "salario_min": 2349.80,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S11",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Auxiliar de Saúde Bucal",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 10,
+    "salario_min": 1796.93,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S12",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Educador Social",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 3,
+    "salario_min": 1935.16,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S13",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Administrativo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 10,
+    "salario_min": 6198.44,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S14",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Ambiental – Biólogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S15",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Ambiental – Engenheiro Ambiental",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S16",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Ambiental – Geógrafo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S17",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Controle Interno – Ciências Contábeis",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 5221.05,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S18",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Controle Interno – Direito",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 5,
+    "salario_min": 5221.05,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S19",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Controle Interno – Engenharia Civil",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 5221.05,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S20",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Procuradoria",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 5,
+    "salario_min": 5221.05,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S21",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Assistente Social",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 6,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S22",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Biomédico",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 7,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S23",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Enfermeiro Obstétrico",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 6,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S24",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Enfermeiro",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 35,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S25",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Farmacêutico",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 16,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S26",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Fisioterapeuta",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 16,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S27",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Fonoaudiólogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S28",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Médico Veterinário",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S29",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Musicoterapeuta",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S30",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Nutricionista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 5,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S31",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Psicólogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S32",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Saúde – Terapeuta Ocupacional",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S33",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Serviço Social – Assistente Social",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 10,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S34",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista de Serviço Social – Psicólogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S35",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Educacional – Assistente Social",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S36",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Educacional – Língua Portuguesa",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S37",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Educacional – Matemática",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S38",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Analista Educacional – Nutricionista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S39",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Bucomaxilofacial",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 3,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S40",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Clínico Geral",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 10,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S41",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Endodontista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S42",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Ortodontista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S43",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Paciente Especial",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S44",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Periodontista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S45",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Cirurgião Dentista – Protesista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S46",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Educador Físico",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4401.22,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S47",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Fiscal de Saúde Pública – Arquiteto",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 9929.68,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S48",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Fiscal de Serviços Urbanos",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 5,
+    "salario_min": 9929.68,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S49",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Fiscal de Tributos Municipais",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 9929.68,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S50",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Fiscal do Meio Ambiente",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 3,
+    "salario_min": 9929.68,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S51",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Procurador do Município",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 5,
+    "salario_min": 6813.95,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S52",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Artes",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S53",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Ciências",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S54",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Educação Física",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 5,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S55",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Geografia",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 5,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S56",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – História",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 9,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S57",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Inglês",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S58",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Matemática",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 10,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S59",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Música",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 8,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S60",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Pedagogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 250,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E2-S61",
+    "titulo_concurso": "Prefeitura de Senador Canedo - GO",
+    "orgao": "Prefeitura Municipal de Senador Canedo",
+    "cargo_base": "Professor – Português",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Redação",
+      "Títulos"
+    ],
+    "vagas_total": 9,
+    "salario_min": 4372.45,
+    "cidade_uf": "Senador Canedo/GO",
+    "data_inscricao_inicio": "2025-12-15T12:00:00",
+    "data_inscricao_fim": "2026-01-15T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-senador-canedo/"
+  },
+  {
+    "id": "E1-G1",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Auxiliar de Serviços Póstumos",
+    "escolaridade": "Alfabetizado",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G2",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Agente de Serviços de Higiene e Alimentação",
+    "escolaridade": "Fundamental (Incompleto)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 14,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G3",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Auxiliar de Serviços Gerais",
+    "escolaridade": "Fundamental (Incompleto)",
+    "etapas": [
+      "Prova Objetiva",
+      "TAF"
+    ],
+    "vagas_total": 15,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G4",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Motorista de Veículos de Transporte Escolar",
+    "escolaridade": "Fundamental (Incompleto)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Prática"
+    ],
+    "vagas_total": 6,
+    "salario_min": 1915.76,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G5",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Vigia Noturno",
+    "escolaridade": "Fundamental",
+    "etapas": [
+      "Prova Objetiva",
+      "TAF"
+    ],
+    "vagas_total": 1,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G6",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Auxiliar Administrativo",
+    "escolaridade": "Fundamental",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 5,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G7",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Motorista – Câmara Municipal",
+    "escolaridade": "Fundamental",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Prática"
+    ],
+    "vagas_total": 1,
+    "salario_min": 2400.00,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G8",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Motorista de Caminhões",
+    "escolaridade": "Fundamental",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Prática"
+    ],
+    "vagas_total": 5,
+    "salario_min": 2010.46,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G9",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Motorista de Veículos Administrativos",
+    "escolaridade": "Fundamental",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Prática"
+    ],
+    "vagas_total": 9,
+    "salario_min": 1784.11,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G10",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Motorista de Ambulância",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Prática"
+    ],
+    "vagas_total": 3,
+    "salario_min": 2077.82,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G11",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Operador de Máquinas",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Prática"
+    ],
+    "vagas_total": 6,
+    "salario_min": 3221.92,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G12",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Agente Administrativo",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 4,
+    "salario_min": 1463.74,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G13",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Auxiliar de Educação Infantil",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 12,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G14",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Auxiliar de Consultório Dentário",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G15",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Cuidador",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 14,
+    "salario_min": 1351.29,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G16",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Fiscal de Obras e Posturas",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 1463.74,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G17",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Fiscal de Tributos Municipais",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 1463.74,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G18",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Gestor de Programas",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 3,
+    "salario_min": 2010.46,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G19",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Técnico de Enfermagem",
+    "escolaridade": "Médio (Técnico)",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 2,
+    "salario_min": 3022.72,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G20",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Vigilante Sanitário",
+    "escolaridade": "Médio",
+    "etapas": [
+      "Prova Objetiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 1727.03,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G21",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Controlador Interno",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 4513.30,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G22",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Controlador Interno – Câmara Municipal",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 2900.00,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G23",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Enfermeiro – PSF",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 4318.18,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G24",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Farmacêutico",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 2896.74,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G25",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Nutricionista",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 3186.38,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G26",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Psicólogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova Discursiva"
+    ],
+    "vagas_total": 1,
+    "salario_min": 3186.38,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G27",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor de Ciências",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 2525.54,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G28",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor de Educação Física",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 3788.31,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G29",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor de Geografia",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 2525.54,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G30",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor de História",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 2525.54,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G31",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor de Letras",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 2,
+    "salario_min": 3788.31,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G32",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor de Matemática",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 1,
+    "salario_min": 3788.31,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  },
+  {
+    "id": "E1-G33",
+    "orgao": "Prefeitura Municipal de Gameleira de Goiás",
+    "cargo_base": "Professor Pedagogo",
+    "escolaridade": "Superior (Completo)",
+    "etapas": [
+      "Prova Objetiva",
+      "Prova de Redação",
+      "Prova de Títulos"
+    ],
+    "vagas_total": 9,
+    "salario_min": 3788.31,
+    "cidade_uf": "Gameleira de Goiás/GO",
+    "data_inscricao_inicio": "2025-12-13T12:00:00",
+    "data_inscricao_fim": "2026-01-13T12:00:00",
+    "link_edital": "https://sistemas.institutoverbena.ufg.br/2025/prefeitura-gameleira/"
+  }
+]
